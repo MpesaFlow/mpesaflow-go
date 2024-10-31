@@ -7,9 +7,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/stainless-sdks/mpesaflow-go"
-	"github.com/stainless-sdks/mpesaflow-go/internal/testutil"
-	"github.com/stainless-sdks/mpesaflow-go/option"
+	"github.com/MpesaFlow/mpesaflow-go"
+	"github.com/MpesaFlow/mpesaflow-go/internal/testutil"
+	"github.com/MpesaFlow/mpesaflow-go/option"
 )
 
 func TestUsage(t *testing.T) {

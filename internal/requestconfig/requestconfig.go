@@ -17,10 +17,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/stainless-sdks/mpesaflow-go/internal"
-	"github.com/stainless-sdks/mpesaflow-go/internal/apierror"
-	"github.com/stainless-sdks/mpesaflow-go/internal/apiform"
-	"github.com/stainless-sdks/mpesaflow-go/internal/apiquery"
+	"github.com/MpesaFlow/mpesaflow-go/internal"
+	"github.com/MpesaFlow/mpesaflow-go/internal/apierror"
+	"github.com/MpesaFlow/mpesaflow-go/internal/apiform"
+	"github.com/MpesaFlow/mpesaflow-go/internal/apiquery"
 )
 
 func getDefaultHeaders() map[string]string {
