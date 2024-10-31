@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/stainless-sdks/mpesaflow-go/internal/param"
+	"github.com/MpesaFlow/mpesaflow-go/internal/param"
 )
 
 type Struct struct {

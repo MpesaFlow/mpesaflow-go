@@ -13,7 +13,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/stainless-sdks/mpesaflow-go/internal/param"
+	"github.com/MpesaFlow/mpesaflow-go/internal/param"
 )
 
 var encoders sync.Map // map[encoderEntry]encoderFunc

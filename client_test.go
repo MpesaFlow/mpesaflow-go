@@ -10,9 +10,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/stainless-sdks/mpesaflow-go"
-	"github.com/stainless-sdks/mpesaflow-go/internal"
-	"github.com/stainless-sdks/mpesaflow-go/option"
+	"github.com/MpesaFlow/mpesaflow-go"
+	"github.com/MpesaFlow/mpesaflow-go/internal"
+	"github.com/MpesaFlow/mpesaflow-go/option"
 )
 
 type closureTransport struct {
