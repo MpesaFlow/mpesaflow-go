@@ -9,11 +9,11 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/stainless-sdks/mpesaflow-go/internal/apijson"
-	"github.com/stainless-sdks/mpesaflow-go/internal/apiquery"
-	"github.com/stainless-sdks/mpesaflow-go/internal/param"
-	"github.com/stainless-sdks/mpesaflow-go/internal/requestconfig"
-	"github.com/stainless-sdks/mpesaflow-go/option"
+	"github.com/MpesaFlow/mpesaflow-go/internal/apijson"
+	"github.com/MpesaFlow/mpesaflow-go/internal/apiquery"
+	"github.com/MpesaFlow/mpesaflow-go/internal/param"
+	"github.com/MpesaFlow/mpesaflow-go/internal/requestconfig"
+	"github.com/MpesaFlow/mpesaflow-go/option"
 )
 
 // AppService contains methods and other services that help with interacting with

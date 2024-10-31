@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/stainless-sdks/mpesaflow-go/internal/requestconfig"
-	"github.com/stainless-sdks/mpesaflow-go/option"
+	"github.com/MpesaFlow/mpesaflow-go/internal/requestconfig"
+	"github.com/MpesaFlow/mpesaflow-go/option"
 )
 
 // Client creates a struct with services and top level methods that help with

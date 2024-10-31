@@ -1,4 +1,4 @@
-module github.com/stainless-sdks/mpesaflow-go
+module github.com/MpesaFlow/mpesaflow-go
 
 go 1.21
 
